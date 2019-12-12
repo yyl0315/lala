@@ -1,0 +1,9 @@
+.van-uploader__input-wrapper {
+    width: 65px;
+    height: 65px;
+    background-color: #f8f8f8;
+    border-radius: 50%;
+    border: 2px solid white;
+    position: relative;
+    overflow: hidden;
+  }
